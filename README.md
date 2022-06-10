@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parithiilamaaran
 - 👀 I’m interested in Gaming,Coding,Everything,etc.
-- 🌱 I’m currently learning Python and 8th Grade.
+- 🌱 I’m currently learning Java Script and 9th Grade.
 - 💞️ I’m looking to collaborate on Github On python
 - 📫 How to reach me: Mail parithiilamaaran@gmail.com
 
